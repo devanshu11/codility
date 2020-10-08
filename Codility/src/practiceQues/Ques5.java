@@ -4,7 +4,7 @@ public class Ques5 {
 
 	public static void main(String[] args) {
 		Ques5 obj1 = new Ques5();
-		String str = "plusminusplusplusplusplusminusminusminus";
+		String str = "plusplus";
 		System.out.println(obj1.solution(str));
 
 	}
